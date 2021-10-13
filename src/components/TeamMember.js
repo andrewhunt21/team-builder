@@ -5,19 +5,19 @@ const initialTeamMembers = [
         id: 0,
         name: 'Andrew',
         email: 'youngandy@gmail.com',
-        role: 'frontend engineer',
+        role: 'Frontend Engineer',
     },
     {
         id: 1,
         name: 'Ivanelle',
         email: 'lilivy@icloud.com',
-        role: 'designer',
+        role: 'Designer',
     },
     {
         id: 2,
         name: 'Koba',
         email: 'bigyeet@yahoo.com',
-        role: 'backend engineer',
+        role: 'Good Dog',
     },
 ]
 
